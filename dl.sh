@@ -15,7 +15,7 @@ end=10
 # 対象とするファイル形式を指定
 ex=".jpg"
 
-cd images
+cd files
 
 while [ $start -le $end ]
   do
