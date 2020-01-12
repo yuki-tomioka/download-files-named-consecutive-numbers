@@ -1,2 +1,2 @@
-# get-images-named-consecutive-numbers
-連番画像をダウンロードするためのシェルスクリプト
+# download-files-named-consecutive-numbers
+連番ファイルをダウンロードするためのシェルスクリプト
